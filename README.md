@@ -1,6 +1,8 @@
 # braindump
 A simple and minimal brain dump written in PHP.
 
+![image](https://raw.githubusercontent.com/sethandroo/braindump/refs/heads/main/screenshot.png)
+
 ## Requirements
 - A PHP capable server
 - A brain with things to dump
