@@ -3,6 +3,15 @@ A simple and minimal brain dump written in PHP.
 
 ![image](https://raw.githubusercontent.com/sethandroo/braindump/refs/heads/main/screenshot.png)
 
+## Features
+- Integrated post editor
+- Grid layout utilizing Masonry
+- Lightbox image viewer
+- Self-updating hashtag sidebar
+- Secure login
+- Fast and efficient
+- Easily modified
+
 ## Requirements
 - A PHP capable server
 - A brain with things to dump
